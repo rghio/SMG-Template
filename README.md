@@ -11,4 +11,6 @@ Template de SMG
 
 4.- v04.1
 
+5.- v04.2
+
 5.- v05
